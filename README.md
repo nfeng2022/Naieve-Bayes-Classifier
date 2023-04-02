@@ -6,3 +6,4 @@ The class for naive Bayes classifier is implemented from the scratch in the file
 - statistics  
 
 ## Benchmark
+The naive Bayes classifier is applied to one example which computes the probability of having heart disease given 
