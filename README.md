@@ -18,7 +18,8 @@ The predictive and actual results for the first 5 testing examples from the naiv
 |            4             |          0.993271          |   Heart disease  |   Heart disease  |
 |            5             |          0.772412          |   Heart disease  |   Heart disease  |
 
-**To run naive Bayes classifier**
+
+**To run naive Bayes classifier for the benchmark example**
 ```
 Python main_script.py
 ```
