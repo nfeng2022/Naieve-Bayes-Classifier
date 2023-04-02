@@ -1,5 +1,5 @@
-# Naieve-Bayes-Classifier
-The class for naieve Bayes classifier is implemented from the scratch in the file "navieve_bayes.py".  
+# Naive-Bayes-Classifier
+The class for naive Bayes classifier is implemented from the scratch in the file "naive_bayes.py".  
 
 ## Dependency
 - math
